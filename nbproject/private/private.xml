@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <data xmlns="http://www.netbeans.org/ns/make-project-private/1">
+        <activeConfTypeElem>1</activeConfTypeElem>
+        <activeConfIndexElem>0</activeConfIndexElem>
+    </data>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/anhld2/NetBeansProjects/catchy/src/HashRing.h</file>
+            <file>file:/home/anhld2/NetBeansProjects/catchy/conf.json</file>
+            <file>file:/home/anhld2/NetBeansProjects/catchy/tests/FragmentTableTest.cpp</file>
+            <file>file:/home/anhld2/NetBeansProjects/catchy/doc/diskcache-init.md</file>
+            <file>file:/home/anhld2/NetBeansProjects/catchy/src/TimeTable.h</file>
+            <file>file:/home/anhld2/NetBeansProjects/catchy/lib/spdlog/include/spdlog/details/logger_impl.h</file>
+            <file>file:/home/anhld2/NetBeansProjects/catchy/src/downloader/local-downloader.h</file>
+            <file>file:/home/anhld2/NetBeansProjects/catchy/src/downloader/common.h</file>
+            <file>file:/home/anhld2/NetBeansProjects/catchy/src/Region.h</file>
+            <file>file:/home/anhld2/NetBeansProjects/catchy/src/common.h</file>
+            <file>file:/home/anhld2/NetBeansProjects/catchy/lib/uvw/src/uvw/tcp.hpp</file>
+            <file>file:/home/anhld2/NetBeansProjects/catchy/src/FragmentTable.h</file>
+            <file>file:/home/anhld2/NetBeansProjects/catchy/src/conf/Configuration.h</file>
+            <file>file:/home/anhld2/NetBeansProjects/catchy/src/DiskCache.h</file>
+            <file>file:/home/anhld2/NetBeansProjects/catchy/src/utils.h</file>
+            <file>file:/home/anhld2/NetBeansProjects/catchy/src/hash/hash_ring.cpp</file>
+            <file>file:/home/anhld2/NetBeansProjects/catchy/src/main.cpp</file>
+            <file>file:/home/anhld2/NetBeansProjects/catchy/src/events/EventEmitter.h</file>
+            <file>file:/home/anhld2/NetBeansProjects/catchy/src/hash/xxhash.h</file>
+            <file>file:/home/anhld2/NetBeansProjects/catchy/src/downloader/session.h</file>
+            <file>file:/home/anhld2/NetBeansProjects/catchy/src/hash/hash_wrapper.cpp</file>
+        </group>
+    </open-files>
+</project-private>

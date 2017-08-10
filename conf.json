@@ -1,0 +1,68 @@
+{
+    "version": "1.9",
+    "tables": {
+        // number of heads, max. up to 2^20
+        "heads": 1048576,
+        // number of heads, max. up to 2^16        
+        "tails": 65536,
+        // number of jumps, max. up to 2^20
+        "jumps": 1048576
+    },
+    "regions": {
+        // 12 types of regions
+        // users can manually add/remove regions at runtime
+        // for example, via command:
+        // $ catchy_ctl reload
+        // max size: 16gb
+        "1kb": [{
+            // Path to our director cache
+            // If it does NOT exist, it"s gonna be created.
+            "path": "/tmp/catchy/1kba",
+            // only support pattern of "<float number><mb|gb|tb>"
+            "size": "128mb"
+        }],
+
+        // max size: ~33gb
+        "2kb": [
+
+        ],
+
+        // max size: ~64gb
+        "4kb": [
+
+        ],
+
+        // max size: ~128gb
+        "8kb": [
+
+        ],
+
+        // max size: ~256gb
+        "16kb": [
+
+        ],
+
+        // max size: ~512gb
+        "32kb": [],
+
+        // max size: ~1tb
+        "64kb": [],
+
+        // max size ~ 2tb
+        "128kb": [],
+
+        // max size ~ 4tb
+        "256kb": [],
+
+        // max size ~ 8tb
+        "512kb": [],
+
+        // max size ~ 16tb
+        "1mb": [],
+
+        //max size ~ 32tb
+        "2mb": [
+
+        ]
+    }
+}
